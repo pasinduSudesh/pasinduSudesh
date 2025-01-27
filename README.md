@@ -1,8 +1,9 @@
-<h3 align="center">Hello there, I'm Pasindu Sudesh 👋 </h3>
 
-* 🎓 I am an Undergraduate of Department of Computer Science and Engineering - University of Moratuwa, Sri Lanka.
-* 🔭 Former trainee Software Engineer at AtLink Communications Inc.
-* 👯 I am looking to collaborate on full-stack development and mobile development
+
+* 💻 Senior Software Engineer at Sysco LABS Technologies.
+* 🎓 Graduate at the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka.
+* 🌟 Passionate about full-stack development, mobile apps, and building scalable systems.
+* 📈 Always exploring cutting-edge technologies and innovative solutions.
 
 <!--
 **pasinduSudesh/pasinduSudesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
